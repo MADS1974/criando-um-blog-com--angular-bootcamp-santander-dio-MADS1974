@@ -1,4 +1,4 @@
-# Recriando projeto Angular Blog (Bootcamp Santander-DIO)
+# Angular Blog - Bootcamp Santander-DIO 
 
 ### [LinkedIN  MADS1974](https://www.linkedin.com/in/mads1974/)
 
