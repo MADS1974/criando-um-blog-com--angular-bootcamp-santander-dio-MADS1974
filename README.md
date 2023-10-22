@@ -1,11 +1,11 @@
-# Recriando projeto Angular Blog (Bootcamp Santander-DIO)
+# Angular Blog - Bootcamp Santander-DIO 
 
 ### [LinkedIN  MADS1974](https://www.linkedin.com/in/mads1974/)
 
 Este projeto foi recriado com base no projeto original do especialista:
 
 ### [Felipe Aguiar](https://www.linkedin.com/in/felipe-exe/)
- Tech Educator, DIO
+ Tech Educator, [DIO](https://web.dio.me/lab/criando-um-blog/learning/623bd6a5-7d90-465b-958c-10c41bfe3c28)
 
 ### Este projeto foi gerado com [Angular CLI](https://github.com/angular/angular-cli) version 14.1.2.
 
