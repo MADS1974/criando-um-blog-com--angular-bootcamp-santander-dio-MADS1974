@@ -1,5 +1,5 @@
 # Angular Blog (Bootcamp Santander Dio)
-Aplicação de blog funcional, usando componentes inteligentes e as ferramentas que o framework Angular:
+Aplicação de blog funcional, usando componentes inteligentes e as ferramentas do framework Angular.
 
 Este projeto foi gerado com [Angular CLI](https://github.com/angular/angular-cli) version 14.1.2.
 
